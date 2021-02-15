@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apisorder
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning JavaScript and Python.
-- 💞️ I’m looking to collaborate on educational project.
+- 💞️ I’m looking to collaborate on educational projects.
 - 📫 How to reach me: apisorder@gmail.com
 
 <!---
