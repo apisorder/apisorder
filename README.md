@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeff.
-- 👀 I’m interested in web development and educational tools.
-- 🌱 I’m currently learning JavaScript and Python.
-- 💞️ I’m looking to collaborate on web or educational projects.
+- 👀 I’m interested in both software development and web development.
+- 🌱 I’m currently learning more about JavaScript and Python.
+- 💞️ I’m looking to collaborate on any type of projects, especially those with a focus on HCI or UX.
 - 📫 How to reach me: jcheng13@mail.sfsu.edu
 
 <!---
