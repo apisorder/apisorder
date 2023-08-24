@@ -1,8 +1,6 @@
 - 👋 Hi, my name is Jeff.
-- 👀 I’m interested in solving problems.
-- 🌱 I know a number of languages, and currently I am using JavaScript and Python in my projects.
-- 💞️ I am interested in projects with an emphasis on either UI or UX.
-- 📫 How to reach me: jcheng13@mail.sfsu.edu
+- 👀 I’m always curious to learn about new things.
+- 📫 How to reach me: apisorder@gmail.com
 
 <!---
 apisorder/apisorder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
