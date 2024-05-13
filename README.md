@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Jeff.
-- 👀 I’m always curious to learn about new things.
+- 👀 I enjoy learning about new things.
 - 📫 How to reach me: apisorder@gmail.com
 
 <!---
